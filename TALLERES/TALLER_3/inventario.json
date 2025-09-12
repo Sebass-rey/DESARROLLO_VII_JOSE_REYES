@@ -1,0 +1,6 @@
+[
+  { "nombre": "Laptop",      "precio": 999.99, "cantidad": 10 },
+  { "nombre": "Smartphone",  "precio": 499.50, "cantidad": 15 },
+  { "nombre": "Auriculares", "precio": 79.99,  "cantidad": 30 },
+  { "nombre": "Tableta",     "precio": 299.99, "cantidad": 8 }
+]
