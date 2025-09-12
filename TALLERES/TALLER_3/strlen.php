@@ -1,4 +1,3 @@
-
 <?php
 // Ejemplo de uso de strlen()
 $nombre = "Juan Pérez";
@@ -26,5 +25,6 @@ function categorizarLongitud($texto) {
 
 $categoria = categorizarLongitud($miNombre);
 echo "</br>Mi nombre es considerado $categoria.";
-?>
+?>    
+
           
