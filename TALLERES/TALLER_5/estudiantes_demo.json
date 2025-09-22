@@ -1,0 +1,116 @@
+{
+    "estudiantes": [
+        {
+            "id": 1,
+            "nombre": "Ana López",
+            "edad": 20,
+            "carrera": "Ingeniería",
+            "materias": {
+                "Cálculo": 95,
+                "Física": 88,
+                "Programación": 92
+            }
+        },
+        {
+            "id": 2,
+            "nombre": "Juan Pérez",
+            "edad": 22,
+            "carrera": "Derecho",
+            "materias": {
+                "Derecho Civil": 78,
+                "Derecho Penal": 81,
+                "Romanas": 74
+            }
+        },
+        {
+            "id": 3,
+            "nombre": "María Gómez",
+            "edad": 21,
+            "carrera": "Medicina",
+            "materias": {
+                "Anatomía": 89,
+                "Fisiología": 93,
+                "Bioquímica": 91
+            }
+        },
+        {
+            "id": 5,
+            "nombre": "Laura Díaz",
+            "edad": 23,
+            "carrera": "Ingeniería",
+            "materias": {
+                "Cálculo": 99,
+                "Física": 96,
+                "Programación": 97
+            }
+        },
+        {
+            "id": 6,
+            "nombre": "Carlos Vega",
+            "edad": 20,
+            "carrera": "Psicología",
+            "materias": {
+                "Teoría": 84,
+                "Estadística": 88,
+                "Neuro": 80
+            }
+        },
+        {
+            "id": 7,
+            "nombre": "Sofía Méndez",
+            "edad": 22,
+            "carrera": "Medicina",
+            "materias": {
+                "Anatomía": 76,
+                "Fisiología": 82,
+                "Bioquímica": 79
+            }
+        },
+        {
+            "id": 8,
+            "nombre": "Diego Torres",
+            "edad": 21,
+            "carrera": "Administración",
+            "materias": {
+                "Finanzas": 90,
+                "Marketing": 87,
+                "Contabilidad": 92
+            }
+        },
+        {
+            "id": 9,
+            "nombre": "Elena Ríos",
+            "edad": 20,
+            "carrera": "Arquitectura",
+            "materias": {
+                "Dibujo": 71,
+                "Historia": 69,
+                "Taller": 74
+            }
+        },
+        {
+            "id": 10,
+            "nombre": "Pablo Navas",
+            "edad": 24,
+            "carrera": "Ingeniería",
+            "materias": {
+                "Cálculo": 58,
+                "Física": 62,
+                "Programación": 55
+            }
+        }
+    ],
+    "graduados": [
+        {
+            "id": 4,
+            "nombre": "Pedro Ruiz",
+            "edad": 19,
+            "carrera": "Arquitectura",
+            "materias": {
+                "Dibujo": 65,
+                "Historia": 72,
+                "Taller": 68
+            }
+        }
+    ]
+}
