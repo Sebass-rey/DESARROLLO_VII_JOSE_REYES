@@ -1,5 +1,4 @@
 <?php
-// analisis_ventas.php
 include 'procesamiento_ventas.php';
 
 $ventas = [

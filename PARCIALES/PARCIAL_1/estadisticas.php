@@ -1,5 +1,4 @@
 <?php
-// estadisticas.php
 
 function calcular_media($datos) {
     $total = array_sum($datos);

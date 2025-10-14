@@ -1,5 +1,4 @@
 <?php
-// procesamiento_ventas.php
 
 function calcular_total_ventas($datos_ventas) {
     $total = 0;

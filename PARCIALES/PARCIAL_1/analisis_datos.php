@@ -1,5 +1,4 @@
 <?php
-// analisis_datos.php
 include 'estadisticas.php';
 
 $datos = [5, 8, 10, 10, 12, 13, 15, 15, 15, 18, 20, 22, 25, 25, 30, 35, 40, 40, 42, 50];
