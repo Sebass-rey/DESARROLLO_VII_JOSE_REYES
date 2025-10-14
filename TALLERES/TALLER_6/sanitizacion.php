@@ -2,11 +2,17 @@
 function sanitizarNombre($nombre) {
     return filter_var(trim($nombre), FILTER_SANITIZE_STRING);
 }
+function sanitizarTexto($texto) {
+    return htmlspecialchars(trim($texto));
+}
 
 function sanitizarEmail($email) {
     return filter_var(trim($email), FILTER_SANITIZE_EMAIL);
 }
 
+function sanitizarUrl($url) {
+    return filter_var(trim($url), FILTER_SANITIZE_URL);
+}
 function sanitizarEdad($edad) {
     return filter_var($edad, FILTER_SANITIZE_NUMBER_INT);
 }

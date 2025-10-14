@@ -1,0 +1,15 @@
+[
+    {
+        "nombre": "Miguel Rodriguez",
+        "email": "ma1011@gmail.com",
+        "sitio_web": "https:\/\/www.mrodriguez.com",
+        "genero": "masculino",
+        "intereses": [
+            "deportes"
+        ],
+        "comentarios": "chitreano",
+        "fecha_nacimiento": "2001-10-11",
+        "edad": 24,
+        "foto_perfil": "foto_68ee7452a4aa89.88281056.jpeg"
+    }
+]
