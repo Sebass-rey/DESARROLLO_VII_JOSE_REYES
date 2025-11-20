@@ -35,3 +35,5 @@ $pdo = null;
     <div><label>Email</label><input type="email" name="email" required></div>
     <input type="submit" value="Crear Usuario">
 </form>
+
+
